@@ -43,4 +43,4 @@ body:
       description: Add any other context about the problem here.
   - type: markdown
     attributes:
-      value: |
+      value: The provided reproduction is a [minimal reproducible example](https://stackoverflow.com/help/minimal-reproducible-example) of the bug **with no external dependencies (e.g. vuetify)**
