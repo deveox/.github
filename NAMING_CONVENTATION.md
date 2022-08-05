@@ -1,3 +1,27 @@
+## JS
+- Global `const` should use `UPPER_SNAKE_CASE`
+- Global private `function` should have `_` before its name.
+- Class names should use `PascalCase`
+- In other cases use `camelCase`
+
+> File names should use `kebab-case`
+## TS
+- Private `type, interface` should have '_' before its name.
+- In other cases use `PascalCase`
+
+> File names should use `kebab-case`
+
+## HTML/CSS/SCSS/PostCSS
+- IDs and class names should use `kebab-case`
+
+## Vue/Nuxt.js
+- Use JS/TS and CSS/HTML naming conventation
+- Components filenames and names should use `PascalCase`
+- Other filenames should use `kebab-case`
+
+## Shell/.env
+- Variables should use `UPPER_SNAKE_CASE`
+
 ## Commits
 > This is adapted from [Vue's commit convention](https://github.com/vuejs/core/blob/a95554d35c65e5bfd0bf9d1c5b908ae789345a6d/.github/commit-convention.md).
 
@@ -93,28 +117,3 @@ Each Pull Request name should meet following RegExp: `\[(major|minor|path|intern
 ```
 [patch] Fix something
 ```
-
-
-## JS
-- Global `const` should use `UPPER_SNAKE_CASE`
-- Global private `function` should have `_` before its name.
-- Class names should use `PascalCase`
-- In other cases use `camelCase`
-
-> File names should use `kebab-case`
-## TS
-- Private `type, interface` should have '_' before its name.
-- In other cases use `PascalCase`
-
-> File names should use `kebab-case`
-
-## HTML/CSS/SCSS/PostCSS
-- IDs and class names should use `kebab-case`
-
-## Vue
-- Use JS/TS and CSS/HTML naming conventation
-- Components filenames and names should use `PascalCase`
-- Other filenames should use `kebab-case`
-
-## Shell (.env )
-- Variables should use `UPPER_SNAKE_CASE`
