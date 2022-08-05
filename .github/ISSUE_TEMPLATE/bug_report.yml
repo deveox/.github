@@ -1,5 +1,6 @@
 name: "\U0001F41E Bug report"
 description: Report an issue
+labels; ["bug","new"]
 body:
   - type: markdown
     attributes:
