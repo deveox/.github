@@ -25,6 +25,8 @@
 ## Commits
 We're using [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/#examples)
 
+> If you use VSCode, we recommend to install [Conventional Commits Extension](https://marketplace.visualstudio.com/items?itemName=vivaxy.vscode-conventional-commits)
+
 ## Pull Request
 Each Pull Request name should meet following RegExp: `\[(major|minor|patch|internal)\]:\s(.+)`. Example:
 ```
